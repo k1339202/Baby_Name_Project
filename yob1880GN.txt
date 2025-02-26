@@ -1,0 +1,11 @@
+Alex,N,147
+Charlie,N,730
+Emerson,N,25
+Finley,N,11
+Jordan,N,23
+Logan,N,13
+Morgan,N,33
+Reese,N,6
+Riley,N,41
+Taylor,N,37
+West,N,13
